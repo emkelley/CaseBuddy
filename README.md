@@ -4,7 +4,9 @@
 
 This is a fairly simple Node utility that will extract case unboxing and trade-up history from your Steam Inventory History page. It will generate a JSON file containing machnine-readable data that can be used for further analysis.
 
+
 Example Object generated for an Unboxed item:
+
 ```json
 {
   "date": "Jul 2, 2024",
@@ -18,7 +20,9 @@ Example Object generated for an Unboxed item:
 }
 ```
 
+
 Example Object generated for a Trade Up:
+
 ```json
 {
   "date": "Jul 2, 2024",
